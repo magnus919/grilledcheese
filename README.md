@@ -14,8 +14,8 @@ This project is an attempt to create the most delicious grilled cheese sandwich.
 ## Instructions
 * If your cheeses aren't shredded and/or thinly sliced, do that first.
 * Place non-stick pan on stovetop, turn up to a low to low/medium heat.
-* Butter one side of the first piece of bread.
-* Place buttered piece of bread butter side down on the pan.
+* Place butter in pan and melt it, maybe add a little garlic salt.
+* Place piece of bread on the pan in the melted butter.
 * Smear a layer of guacamole on top side of bread in pan.
 * Add a layer of bacon, roughly covering the surface area of the bread.
 * Add a thin layer of cheese on top of the bacon.
@@ -25,7 +25,8 @@ This project is an attempt to create the most delicious grilled cheese sandwich.
 * Drizzle sriracha over top of the cheese to taste.
 * Spread a thin layer of dijon mustard on one side of the unused piece of bread.
 * Lay that slice mustard side down on top of the cheese.
-* Butter the top of this piece of bread.
-* Periodically peek underneath of the sandwich. When the bottom is golden brown, carefully flip it.
+* Periodically peek underneath of the sandwich. 
+* When the bottom is golden brown, carefully lift it and add more butter to pan.
+* Once melted, flip.
 * Repeat until the second side is golden brown.
 * Dish it out on a plate and let it cool for about two minutes before cutting into 2 or 4 slices.
